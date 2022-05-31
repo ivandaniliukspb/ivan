@@ -1,5 +1,5 @@
 k=0
-for i in range (-100,10000):
+for i in range (100,10000):
     s=i
     s=s//11
     n=9
